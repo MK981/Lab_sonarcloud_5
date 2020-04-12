@@ -1,0 +1,1 @@
+https://coveralls.io/repos/github/MK981/Lab_sonarcloud_5/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/MK981/Lab_sonarcloud_5?branch=master
