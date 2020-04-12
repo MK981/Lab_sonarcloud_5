@@ -13,6 +13,7 @@ addons:
 install:
   - pip install -r requirements.txt
   - pip install unittest2
+  - pip install coveralls
 
 script:
   - python lab4.py
